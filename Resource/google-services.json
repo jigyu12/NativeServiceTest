@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1006152389571",
+    "project_id": "nativeservicetest",
+    "storage_bucket": "nativeservicetest.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006152389571:android:f19f9ed7fe6932d936a376",
+        "android_client_info": {
+          "package_name": "com.Kyungil.Project2DTest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006152389571-gipnf8nvvb27sdb3t3s69fnnkd4pnhre.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Kyungil.Project2DTest",
+            "certificate_hash": "61771cffd382d263c64d8d64210b84c6b1313693"
+          }
+        },
+        {
+          "client_id": "1006152389571-jjo9u0553g6rhidapnp9695kjg4olv90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDazVVz4TTWPHJxeZepSZktCtiOvvWZQdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006152389571-jjo9u0553g6rhidapnp9695kjg4olv90.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
