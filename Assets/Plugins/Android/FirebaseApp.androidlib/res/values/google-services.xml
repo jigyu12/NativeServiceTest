@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_android_client_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">1006152389571</string>
+  <string name="google_storage_bucket" translatable="false">nativeservicetest.firebasestorage.app</string>
+  <string name="project_id" translatable="false">nativeservicetest</string>
+  <string name="google_api_key" translatable="false">AIzaSyDazVVz4TTWPHJxeZepSZktCtiOvvWZQdI</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDazVVz4TTWPHJxeZepSZktCtiOvvWZQdI</string>
+  <string name="google_app_id" translatable="false">1:1006152389571:android:f19f9ed7fe6932d936a376</string>
+  <string name="default_android_client_id" translatable="false">1006152389571-gipnf8nvvb27sdb3t3s69fnnkd4pnhre.apps.googleusercontent.com</string>
+  <string name="default_web_client_id" translatable="false">1006152389571-jjo9u0553g6rhidapnp9695kjg4olv90.apps.googleusercontent.com</string>
+</resources>

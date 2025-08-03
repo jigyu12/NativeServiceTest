@@ -1,0 +1,9 @@
+lastUpgrade=20000
+proj.pluginVersion=2.0.0
+proj.AppId=1006152389571
+and.BundleId=com.Kyungil.Project2DTest
+proj.classDir=Assets
+proj.ConstantsClassName=GPGSIds
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--Google+Play+game+services+IDs.+Save+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.--%3e%0d%0a%3cresources%3e%0d%0a++%3c%21--app_id--%3e%0d%0a++%3cstring+name%3d%22app_id%22+translatable%3d%22false%22%3e1006152389571%3c%2fstring%3e%0d%0a++%3c%21--package_name--%3e%0d%0a++%3cstring+name%3d%22package_name%22+translatable%3d%22false%22%3ecom.Kyungil.Project2DTest%3c%2fstring%3e%0d%0a++%3c%21--achievement+%ed%85%8c%ec%8a%a4%ed%8a%b8+%ec%97%85%ec%a0%81--%3e%0d%0a++%3cstring+name%3d%22achievement%22+translatable%3d%22false%22%3eCgkIw6fsmqQdEAIQAA%3c%2fstring%3e%0d%0a++%3c%21--leaderboard+%ed%85%8c%ec%8a%a4%ed%8a%b8+%eb%a6%ac%eb%8d%94%eb%b3%b4%eb%93%9c--%3e%0d%0a++%3cstring+name%3d%22leaderboard%22+translatable%3d%22false%22%3eCgkIw6fsmqQdEAIQAQ%3c%2fstring%3e%0d%0a%3c%2fresources%3e
+and.ClientId=1006152389571-gipnf8nvvb27sdb3t3s69fnnkd4pnhre.apps.googleusercontent.com
+android.SetupDone=true
